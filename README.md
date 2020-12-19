@@ -43,7 +43,11 @@ cd workoutwars20
 ```
 5. Now we need to create the environment to hold our requirements.
 ```
+For Mac:
 virtualenv -p /usr/local/bin/python3 pqenv
+
+For Windows:
+virtualenv pqenv
 ```
 The `-p` flag tells `virtualenv` the path to the python version you want to use. If yours is different, make sure to replace it. The name `pqenv` is the environment name.
 
@@ -58,7 +62,11 @@ workoutwars20
 ```
 7. You can now activate the environment:
 ```
+For Mac:
 source pqenv/bin/activate
+
+For Windows:
+source pqenv/Scripts/activate
 ```
 You will see that the next line prompt begins with the environment name. That means the environment is active.
 ```

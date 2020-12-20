@@ -165,6 +165,14 @@ echo "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bashrc
 ```
 source ~/.bashrc
 ```
+Note: If you get an error related to virtualenvwrapper while running this command, you can skip it and just use virtualenv. To do this, run the following commands:
+```
+sudo apt-get install python-virtualenv
+virtualenv -p /usr/bin/python3 pqenv
+source pqenv/bin/activate
+```
+If you follow these commands, you can skip step 7.
+
 6. Install uWSGI using pip:
 ```
 sudo pip3 install uwsgi

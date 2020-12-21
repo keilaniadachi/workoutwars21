@@ -1,41 +1,36 @@
 ID,name,description,notes,increment,measurement,multiplier
 1,Badminton,Badminton,,15,mins,1
-2,Basketball,Basketball,,15,mins,1
-3,Hiking,Hiking,,15,mins,1
-4,Hockey,Hockey,,15,mins,1
-5,Push-ups,Push-ups,,30,reps,1
-6,Soccer,Soccer,,15,mins,1
-7,Stretching Plyos,Plyos for Stretching (dynamic warmup),,15,mins,1
-8,Static Stretching/Foam Rolling,Static Stretching/Foam Rolling,,15,mins,1
-11,Tennis,Tennis,,15,mins,1
-12,Volleyball,Volleyball,,15,mins,1
-13,Burpees,Burpees,,20,reps,1.25
-14,Tabatas,Tabatas (Non-Sprinting),,4,mins,1.25
-15,Biking,Biking,,15,mins,1.5
-16,Elliptical,Elliptical,,15,mins,1.5
-17,Physical Therapy,Physical Therapy,,15,mins,1.5
-18,Pilates,Pilates,,15,mins,1.5
-19,Rollerblading/Ice Skating,Rollerblading/Ice Skating,,15,mins,1.5
-20,Surfing,Surfing,,15,mins,1.5
-21,Yoga,Yoga,,15,mins,1.5
-22,Zumba,Zumba,,15,mins,1.5
-23,Abs,Abs,,10,mins,1.75
-24,Agility Drills,Agility Drills (cones/ladders),,15,mins,1.75
-25,CrossFit,CrossFit,,15,mins,1.75
-26,Hill Sprints,Hill Sprints,,10,mins,1.75
-27,Jump Roping,Jump Roping,,15,mins,1.75
-28,Kayaking/Paddling,Kayaking/Paddling,,15,mins,1.75
-29,Kickboxing,Kickboxing,,15,mins,1.75
-30,Lifting/Weight Training,Lifting/Weight Training,,15,mins,1.75
-31,P90x or Insanity Workout,P90x or Insanity Workout,,15,mins,1.75
-33,Plyometrics,"Plyometrics (squats, lunges, etc.)",,15,mins,1.75
-34,Rowing,Rowing,,15,mins,1.75
-35,Running,Running,,15,mins,1.75
-36,Stadiums/Stairs,Stadiums/Stairs,,15,mins,1.75
-37,Swimming,Swimming,,15,mins,1.75
-38,Sprinting/Spinning Tabatas,Sprinting/Spinning Tabatas,,4,mins,1.85
-39,Sprints,Sprints,,15,mins,1.85
-40,Track Workout,Track Workout,,15,mins,1.85
-41,Mental Strength - Yellow,Mental Strength - Repeatable (Yellow),,15,mins,2
-42,Mental Strength - Blue,Mental Strength - One time (Blue),,15,mins,3
-43,Mental Strength - Purple,"Mental Strength - One time, juicy (Purple)",,15,mins,5
+2,Hiking/Snowshoeing,Hiking,,15,mins,1
+3,Push-ups,Push-ups,,30,reps,1
+4,Stretching Plyos,Plyos for Stretching (dynamic warmup),,15,mins,1
+5,Static Stretching/Foam Rolling,Static Stretching/Foam Rolling,,15,mins,1
+6,Tennis,Tennis,,15,mins,1
+7,Burpees,Burpees,,20,reps,1.25
+8,Tabatas/HIIT,Tabatas (Non-Sprinting),,4,mins,1.25
+9,Biking,Biking,,15,mins,1.5
+10,Elliptical,Elliptical,,15,mins,1.5
+11,Physical Therapy,Physical Therapy,,15,mins,1.5
+12,Pilates,Pilates,,15,mins,1.5
+13,Rollerblading/Ice Skating,Rollerblading/Ice Skating,,15,mins,1.5
+14,Surfing,Surfing,,15,mins,1.5
+15,Yoga,Yoga,,15,mins,1.5
+16,Zumba,Zumba,,15,mins,1.5
+17,Abs,Abs,,10,mins,1.75
+18,Agility Drills,Agility Drills (cones/ladders),,15,mins,1.75
+19,CrossFit,CrossFit,,15,mins,1.75
+20,Hill Sprints,Hill Sprints,,10,mins,1.75
+21,Jump Roping,Jump Roping,,15,mins,1.75
+22,Kayaking/Paddling,Kayaking/Paddling,,15,mins,1.75
+23,Kickboxing,Kickboxing,,15,mins,1.75
+24,Lifting/Weight Training,Lifting/Weight Training,,15,mins,1.75
+25,P90x or Insanity Workout,P90x or Insanity Workout,,15,mins,1.75
+26,Plyometrics,"Plyometrics (squats, lunges, etc.)",,15,mins,1.75
+27,Rowing,Rowing,,15,mins,1.75
+28,DIstance Running,Running,,15,mins,1.75
+29,Stadiums/Stairs,Stadiums/Stairs,,15,mins,1.75
+30,Swimming,Swimming,,15,mins,1.75
+31,Sprinting/Spinning Tabatas,Sprinting/Spinning Tabatas,,4,mins,1.85
+32,Track Workout,Track Workout,,15,mins,1.85
+33,Mental Strength - Yellow,Mental Strength - Repeatable (Yellow),,15,mins,2
+34,Mental Strength - Blue,Mental Strength - One time (Blue),,15,mins,3
+35,Mental Strength - Purple,"Mental Strength - One time, juicy (Purple)",,15,mins,5

@@ -33,7 +33,7 @@ class SignUpForm(UserCreationForm):
 class AddWorkoutForm(forms.ModelForm):
     workout_date = forms.DateField(
         initial=timezone.now,
-        widget=forms.SelectDateWidget(years=(range(2020, 2021)),
+        widget=forms.SelectDateWidget(years=(range(2020, 2022)),
             months={12: ('December'), 1:('January')}),
         label="Workout Date",
         required=True,

@@ -11,6 +11,7 @@ from django.shortcuts import render, redirect
 from django.template import RequestContext
 from django.views.generic import TemplateView
 import datetime
+import calendar
 
 from workoutwarsapp.forms import SignUpForm, AddWorkoutForm
 from workoutwarsapp.models import User, Profile, Class, Team, Exercise, Workout
@@ -126,7 +127,12 @@ def indiv(request, username):
     chart_data = [[START_DATE + datetime.timedelta(days=x), 0] for x in range(0, NUM_DAYS)]
     for w in workouts:
         diff = (w.workout_date - START_DATE).days
-        if diff >= 0 and diff < len(chart_data):
+        if diff < len(chart_data):
+            if diff < 0:
+                if calendar.isleap(START_DATE.year):
+                    diff += 366
+                else:
+                    diff += 365
             chart_data[diff][1] += w.score
 
     # Get statistics information
